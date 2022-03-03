@@ -1,0 +1,274 @@
+body {
+        margin: 0%;
+        padding: 0%;
+        font-size: .9rem;
+        font-family: Raleway, Arial, sans-serif;
+    }
+header {
+    display: flex;
+    color: #FFFFFF;
+    padding-top: 4%;
+    margin: 0 15%;
+    justify-content: space-between
+
+}
+
+#zz{
+    margin-left:-60%;
+}
+
+
+.da{
+    margin: 0%;
+    color:#7e7e7e;
+}
+.rr {
+    margin-top: -5%;
+}
+
+
+a {
+    color:#3d9f96;
+}
+button {
+    background-color:#3d9f96;
+    text-align: center;
+    border-radius: 50px;
+    padding:10px 20px;
+    color: #FFFFFF;
+    width: 20%;
+    font-size: 12px;
+    border:#3d9f96;   
+}
+.gama{
+    color:#3d9f96;
+}
+
+.page > h1{
+    font-family: Raleway, Arial, sans-serif ;
+}
+
+
+.foot {
+    position: relative; 
+    display:flex;
+    justify-content: center;
+  
+} 
+     
+.icone{
+       position: absolute;
+       background-color:#f9f9f9;
+       width: 100%;
+       padding-top: 2%;
+       padding-bottom: 5%;
+       margin-top:-15%;
+}
+ 
+
+.tu {
+  margin: 1%;
+  margin-top:3%;
+
+}
+.re{
+    text-align: center;
+    padding-top: 10%;
+}
+.cu{
+    position: relative;
+    margin-top:-227%;
+    margin-left: -3%;
+     
+}
+.pu{
+    margin-top: -5%;
+}
+.pe{
+    position: relative;
+    display: none;
+}
+
+
+.mi{
+    background-color: #f9f9f9;
+    padding-bottom: 5%;
+    
+}
+h3 {
+    margin-left: 21%;
+}
+.para{
+    display: flex;
+    justify-content: center;
+}
+
+.do{
+    margin-left: 2%;
+    
+}
+.vu{
+    display: flex;
+    margin-left: 21%;
+}
+.bu{
+    display: flex;
+    margin-left: 2%;
+    justify-content: space-evenly;
+}
+.no{
+    padding-top: 5%;
+}
+
+.il{
+    padding-top: 2%;
+    padding-bottom: 10%;
+    
+}
+.ce{
+    position:absolute;
+    display: none;
+
+}
+.se{
+    position:absolute;
+     display: none;
+}
+.no > button {
+    position: absolute;
+}
+.il > button {
+    position: absolute;
+
+}
+
+
+.teta{
+    margin-left: 5%;
+    
+}
+
+
+
+
+.menu {
+    margin-left: -60%;
+    margin-bottom: 20%;
+}
+
+.dio{
+    position: relative;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    font-size:.9em;
+    font-family: Helvetica, Arial, sans-serif, 'Raleway';
+    padding-bottom: 3%;  
+}
+
+.over{
+    position: absolute;
+    left: 20%;
+    padding-bottom:5%;
+    
+}
+.player{
+     display: flex;
+     padding-bottom:3%;
+     padding-top:3%;
+     
+    
+
+}
+.elle{
+    margin-left: 20%;
+
+}
+@media all and (max-width:480px) {
+    .icone > p {
+        display: none;
+    }
+    button {
+        width: 40%;
+        text-transform: uppercase;
+    }
+    
+    
+    .page  > p {
+        margin: 0 15%;
+        font-size: .8em;
+        font-family: Helvetica, Arial, sans-serif, 'Raleway';    }
+    .sol {
+        display: block;
+        text-align:center;
+        margin-left: 5%;
+        margin-right: 5%;
+        font-size: 13px;
+    }
+    .pu,.cu, .xx{
+       display: none;
+    }
+    .pe {
+        display: block;    position: relative;
+
+        position: relative;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .alfa > p.gama {
+        text-transform: lowercase;
+    }
+    figure {
+        width: 70%;
+
+    }
+    .para{
+       display: block;
+       margin-left: 21%;
+    }
+    .mi{
+        text-align: center;
+    }
+    .vu,.bu{
+        display: block;
+    }
+    .dio{
+        display: block;
+        text-align: center;
+    }
+    .over{
+        margin-left: 20%;
+      
+    }
+    .player{
+         display: block;
+    }
+    .cet{
+        position: relative;
+        display: none;
+    }
+    .ses{
+        position: relative;
+        display: none;
+} 
+    .ce {
+        display: block;
+        position: relative;
+    }
+    .se{
+        display: block;
+        position: relative;
+        left:21%;
+    }
+    .il{
+        text-align: center;
+    }
+    .il > button{
+        right: 30%;
+    }
+    .elle{
+        margin-left: 5%;
+        text-align: center;
+        
+    }
